@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 psutil==5.9.6
+=======
+python-nmap==0.7.1
+>>>>>>> 44e9bbe2aae26ceaabb8c1f29f8aec413c70a04c
