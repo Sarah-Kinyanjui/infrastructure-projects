@@ -17,10 +17,6 @@ A collection of hands-on infrastructure and network engineering projects demonst
 - **Skills demonstrated:** System observability, Linux administration, infrastructure monitoring.  
 - **Technologies:** Prometheus, Grafana, Linux.  
 
-### 3. Automated CI/CD Pipeline (Optional Future Project)
-- **Description:** Automates deployment of a web service using Docker and GitHub Actions.  
-- **Skills demonstrated:** Automation, CI/CD pipelines, containerization.  
-- **Technologies:** Docker, GitHub Actions, Linux.  
 
 ---
 
